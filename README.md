@@ -1,6 +1,6 @@
-# login-react README
+# isl-dictionary-extension README
 
-This is the README for your extension "login-react". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "isl-dictionary-extension". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
